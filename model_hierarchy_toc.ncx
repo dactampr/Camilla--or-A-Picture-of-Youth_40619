@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE ncx PUBLIC '-//NISO//DTD ncx 2005-1//EN' 'http://www.daisy.org/z3986/2005/ncx-2005-1.dtd'>
+
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="http://www.gutenberg.org/ebooks/40619" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="EpubMaker 0.3.19b6 by Marcello Perathoner &lt;webmaster@gutenberg.org&gt;" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Camilla or, A Picture of Youth</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="lvl1" id="np-22" playOrder="1">
+      <navLabel>
+        <text>CAMILLA: A PICTURE OF YOUTH</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00023"/>
+    </navPoint>
+    <navPoint class="lvl1" id="np-25" playOrder="2">
+      <navLabel>
+         <text>TO THE QUEEN</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00025"/>
+    </navPoint>
+    <navPoint class="lvl1" id="np-27" playOrder="3">
+      <navLabel>
+         <text>ADVERTISEMENT</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00026"/>
+    </navPoint>
+    <navPoint class="lvl1" id="np-28" playOrder="4">
+      <navLabel>
+         <text>VOLUME I</text>
+      </navLabel>
+      <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00027"/>
+      <navPoint class="lvl2" id="np-29" playOrder="5">
+         <navLabel>
+            <text>BOOK I</text>
+         </navLabel>
+         <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00028"/>
+        <navPoint class="lvl3" id="np-30" playOrder="6">
+            <navLabel>
+                <text>CHAPTER I: A Family Scene</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00030"/>
+         </navPoint>
+        <navPoint class="lvl3" id="np-32" playOrder="7">
+            <navLabel>
+                <text>CHAPTER II: Comics Gambols</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-0.htm.html#pgepubid00032"/>
+         </navPoint>
+        <navPoint class="lvl3" id="np-34" playOrder="8">
+            <navLabel>
+                <text>CHAPTER III: Consequences</text>
+            </navLabel>
+            <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00033"/>
+         </navPoint>
+        <navPoint class="lvl3" id="np-36" playOrder="9">
+             <navLabel>
+                <text>CHAPTER IV: Studies of a grown Gentleman</text>
+             </navLabel>
+             <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00036"/>
+         </navPoint>
+        <navPoint class="lvl3" id="np-38" playOrder="10">
+             <navLabel>
+                <text>CHAPTER V: Schooling of a young Gentleman</text>
+             </navLabel>
+             <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00038"/>
+         </navPoint>
+        <navPoint class="lvl3" id="np-40" playOrder="11">
+             <navLabel>
+                <text>CHAPTER VI: Tuition of a young Lady</text>
+             </navLabel>
+             <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00040"/>
+         </navPoint>
+        <navPoint class="lvl3" id="np-42" playOrder="12">
+             <navLabel>
+                <text>CHAPTER VII: Lost Labour</text>
+             </navLabel>
+             <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00042"/>
+        </navPoint>
+      </navPoint>
+      <navPoint class="lvl2" id="np-44" playOrder="13">
+        <navLabel>
+           <text>BOOK II</text>
+        </navLabel>
+        <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00043"/>
+        <navPoint class="lvl3" id="np-45" playOrder="14">
+          <navLabel>
+            <text>CHAPTER I: New Projects</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-1.htm.html#pgepubid00045"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-47" playOrder="15">
+          <navLabel>
+            <text>CHAPTER II: New Characters</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-2.htm.html#pgepubid00047"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-49" playOrder="16">
+          <navLabel>
+            <text>CHAPTER III: A Family Breakfast</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-2.htm.html#pgepubid00049"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-51" playOrder="17">
+          <navLabel>
+            <text>CHAPTER IV: A Public Breakfast</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-2.htm.html#pgepubid00051"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-53" playOrder="18">
+          <navLabel>
+            <text>CHAPTER V: A Raffle</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-3.htm.html#pgepubid00053"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-55" playOrder="19">
+          <navLabel>
+            <text>CHAPTER VI: A Barn</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-3.htm.html#pgepubid00055"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-57" playOrder="20">
+          <navLabel>
+            <text>CHAPTER VII: A Declaration</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-3.htm.html#pgepubid00057"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-59" playOrder="21">
+          <navLabel>
+            <text>CHAPTER VIII: An Answer</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-4.htm.html#pgepubid00059"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-61" playOrder="22">
+          <navLabel>
+            <text>CHAPTER IX: An Explication</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-4.htm.html#pgepubid00061"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-63" playOrder="23">
+          <navLabel>
+            <text>CHAPTER X: A Panic</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-4.htm.html#pgepubid00063"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-65" playOrder="24">
+          <navLabel>
+            <text>CHAPTER XI: Two Lovers</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-4.htm.html#pgepubid00065"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-67" playOrder="25">
+          <navLabel>
+            <text>CHAPTER XII: Two Doctors</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-4.htm.html#pgepubid00067"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-69" playOrder="26">
+          <navLabel>
+            <text>CHAPTER XIII: Two Ways of looking at the same Thing</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-5.htm.html#pgepubid00069"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-71" playOrder="27">
+          <navLabel>
+            <text>CHAPTER XIV: Two Retreats</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-5.htm.html#pgepubid00071"/>
+        </navPoint>
+        <navPoint class="lvl3" id="np-73" playOrder="28">
+          <navLabel>
+            <text>CHAPTER XV: Two Sides of a Question</text>
+          </navLabel>
+          <content src="@public@vhost@g@gutenberg@html@files@40619@40619-h@40619-h-5.htm.html#pgepubid00073"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>
